@@ -38,7 +38,23 @@
 - Univariate Analysis
 - Segmented Univariate Analysis
 - Bi-variate Analysis
+## Conclusions
 
+ - Key attributes which deciding whether a loan applicant tend to default or not :
+    - Annual Income
+    - Verification Status
+    - Grades
+    - Interest rates 
+    - DTI
+    - Pub_rec_bankruptcies
+ - Additional points to consider while approving the loan
+    - Verification of documents / Source
+    - Income in the range 50000-100000 are tend to default
+    - with past pub_rec_bankruptcies 
+    - Grades above D grade( E,F,G ) are tended to default
+    - Clients from 'CA' state showing defaulter nature
+ - Detailed conclusion mentioned in the "JoshyPJ__Sheetal_R_Lending Club.pdf"
+  
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
